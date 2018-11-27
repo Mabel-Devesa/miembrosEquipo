@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Miembros del equipo</string>
+    <string name="equipo">Nombre de equipo</string>
+    <string name="nom1">Mabel Devesa</string>
+    <string name="nom2">pers2</string>
+    <string name="nom3">pers3</string>
+    <string name="nom4">pers4</string>
+
+</resources>
